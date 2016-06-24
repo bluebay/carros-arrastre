@@ -1,3 +1,4 @@
+<div class="espaciador"></div>
 <footer>
 <img src="images/carro_arrastre_whatsapp_logo.png" alt="contacto whatsapp carro de arrastre chile"/><span>+56 9 95097054</span><br>
 <img src="images/carro_de_arrastre_email.png" alt="contacto email carro de arrastre chile"/><span>canepa@bluebay.cl</span>
