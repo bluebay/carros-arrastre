@@ -12,10 +12,6 @@
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!-- js -->
-<script src="js/jquery-1.11.1.min.js"></script>
-<script src="js/script.js"></script>
-<!-- //js -->
 <link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 
@@ -65,7 +61,11 @@
 			<br>
 		</div>
 	</div>
-	<script src="js/bootstrap.js"></script>
 	<?php include("footer-carros-arrastre.php"); ?>
+	<!-- js -->
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/script.js"></script>
+	<!-- //js -->
+	<script src="js/bootstrap.js"></script>
 </body>
 </html>

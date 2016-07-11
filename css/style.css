@@ -180,7 +180,7 @@ html, body{
 }
 
 body {
-  background:url(../images/carro_arrastre_chile_fondo.png) no-repeat;
+  background:url(../images/carro_arrastre_chile_fondo.jpg) no-repeat;
   background-size: cover;
   background-position-y: -190px;
   padding-top: 25px;
@@ -259,6 +259,7 @@ body a:hover{
 }
 /*-- nav --*/
 /*-- Effect 14 --*/
+@media (min-width: 767px) {
 .cl-effect-14 a {
 	padding: 0 20px;
 	height: 65px;
@@ -330,6 +331,7 @@ body a:hover{
 	-webkit-transform: rotate(0deg) translateX(50%);
 	-moz-transform: rotate(0deg) translateX(50%);
 	transform: rotate(0deg) translateX(50%);
+}
 }
 /*-- //Effect 14 --*/
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
