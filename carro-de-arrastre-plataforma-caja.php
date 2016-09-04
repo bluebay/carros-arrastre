@@ -55,8 +55,8 @@
 					<li type="square">Suspensión paquete de resortes</li>
 					<li type="square">Luces y cadenas</li>
 					<li type="square">Mano de acople 2"</li>
-					<li type="square" class="blue">Carro con cubierta de aluminio (Sin barandas) $ 640.000</li>
-					<li type="square" class="blue">Carro con cubierta de aluminio (con barandas) $ 690.000</li>
+					<li type="square" class="blue">Carro con cubierta de terciado (Sin barandas) $ 640.000</li>
+					<li type="square" class="blue">Carro con cubierta de terciado (con barandas) $ 690.000</li>
 					<li type="square">Rueda de repuesto $ 30.000 c/u</li>
 					<li type="square">Rueda de maniobra $ 25.000 c/u</li>
 				</ul>
