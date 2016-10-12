@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Carros de arrastre Chile, carros porta equipaje, carros plegables, carros motocicletas, carros cuadrimoto</title>
+<title>Venta de carros de arrastre en Chile, carros para motocicletas, botes, porta equipajes</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Carro de arrastre Chile, diferentes modelos de carros, carro de arrastre porta equipaje, carro de arrastre motocicleta, carro de arrastre bote, carro de arrastre plegable, carro de arrastre cuadrimoto"/>
+<meta name="description" content="Venta de carros de arrastre. Importamos carros para motocicletas, botes, cuadrimotos, plataformas y porta equipajes."/>
 <meta name="keywords" content="carros de arrastre Chile, venta de carros de arrastre, carros de arrastre motocicleta, carros de arrastre porta equipaje, carros de arrastre bote " />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -21,7 +21,7 @@
 	<?php include("topbar.php"); ?>
 
   <div class="dummy_text">
-    <h1>Ventas de carros de arrastre en Chile, carros de arrastre para motocicletas, carros de arrastre porta equipajes, carros de arrastre para botes, carros de arrastre utilitarios, carros de arrastre plegables</h1>
+    <h1>Comercialización de carros de arrastre en Chile. Carros plegables, para motocicletas, botes, cuadrimotos, porta equipajes y otros.</h1>
   </div>
 <?php include("footer-carros-arrastre.php"); ?>
 	<!-- js -->

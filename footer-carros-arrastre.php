@@ -1,8 +1,8 @@
 <div class="espaciador"></div>
 <footer>
-<img src="images/carro_arrastre_whatsapp_logo.png" alt="contacto whatsapp carro de arrastre chile"/><span>+56 9 95097054</span><br>
-<img src="images/carro_de_arrastre_email.png" alt="contacto email carro de arrastre chile"/><span>canepa@bluebay.cl</span>
-<img src="images/TRANSBANK-carro-arrastre.png" alt="tarjeta-pago-carro-de-arrastre" class="tres-cuotas"/>
+<img src="images/whatsapp_logo.png" alt="contacto whatsapp"/><span>+56 9 95097054</span><br>
+<img src="images/email.png" alt="contacto email"/><span>canepa@bluebay.cl</span>
+<img src="images/TRANSBANK.png" alt="tarjeta-pago" class="tres-cuotas"/>
 </footer>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
