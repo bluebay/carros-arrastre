@@ -2,7 +2,7 @@
 <footer>
 <img src="images/whatsapp_logo.png" alt="contacto whatsapp"/><span>+56 9 95097054</span><br>
 <img src="images/email.png" alt="contacto email"/><span>canepa@bluebay.cl</span>
-<img src="images/TRANSBANK.png" alt="tarjeta-pago" class="tres-cuotas"/>
+<img src="images/transbank.png" alt="tarjeta-pago" class="tres-cuotas"/>
 </footer>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
